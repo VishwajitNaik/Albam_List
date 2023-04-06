@@ -1,0 +1,113 @@
+.headers{
+  background-color: rgb(53, 53, 215);
+  color: white;
+  text-align: center;
+}
+
+.container{
+  border-color: rgb(202, 193, 153);
+  width: 70%;
+  margin:  auto;
+  min-height: 100vh;
+  padding: 4vmax 8vmax;
+  box-sizing: border-box;
+}
+
+.container > form {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+input, 
+textarea,
+button {
+  padding: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.214);
+}
+
+button{
+  border: none;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+
+/* *{
+  border: 1px solid red;
+} */
+
+.Task
+{
+  align-items: center;
+  display: flex;
+  background-color: rgb(223, 229, 234);
+  margin-bottom: 10px;
+}
+
+.Task > div {
+  width: 100%;
+}
+
+.Task button {
+  margin-top: 10px;
+  border-radius: 100%;
+  background-color: rgb(222, 54, 54);
+  width: 30px;
+  height: 30px;
+  font-size: 1.6rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Task button:hover{
+  background-color: red;
+}
+
+.headers{
+  background-color: aliceblue;
+  padding: 10px;
+  box-shadow: 2px 3px 5px 1px black;
+  margin-bottom: 10px;
+  height: 50px;
+}
+.headers > a {
+  text-decoration: none;
+  color: black;
+  margin: 20px;
+}
+
+.about{
+  background-color: rgb(128, 151, 143);
+  height: 600px;
+  margin-bottom: 20px;
+}
+
+.contact{
+  background-color: rgb(53, 104, 198);
+  height: 500px;
+}
+
+.footer{
+  background-color: rgb(73, 70, 70);
+  height: 200px;
+  margin-top: 20px;
+}
+
+.user 
+{
+  background-color: darkcyan;
+  height: 500px;
+
+}
+
+.inputforClassComp{
+  padding:  1rem;
+  border-radius: 5px;
+  border: 1px solid rgb(7, 7, 7);
+}
+
+.divbtn{
+  float: left;
+}

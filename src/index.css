@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(187, 187, 215) !important;
+}
+
+.albam-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
