@@ -53,7 +53,7 @@ const AddAlbams = () => {
 
   return (
     <>
-    <pre>{JSON.stringify(addAlbam.albams)}</pre>
+    {/* <pre>{JSON.stringify(addAlbam.albams)}</pre> */}
       <section className='add-contact p3' >
         <div className="container">
           <div className="row">
