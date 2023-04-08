@@ -1,5 +1,16 @@
 {
-  "albams": [],
+  "albams": [
+    {
+      "name": "Vishwajit",
+      "photo": "https://th.bing.com/th/id/OIP.ZNDWwAGZPy8F6lRTjPKx_wHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+      "actor": "Vijay malya",
+      "producer": "A-R-Rehaman3",
+      "Description": "Action Film9ty",
+      "ratings": "4.5ddd",
+      "released": "2023-04-21",
+      "id": 1
+    }
+  ],
   "groups": [
     {
       "id": "1",
